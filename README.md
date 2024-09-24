@@ -1,2 +1,3 @@
 # Hello-World
-Practise
+Practice
+Welcome to My Repository
